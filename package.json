@@ -1,0 +1,41 @@
+{
+  "name": "nick-java-dev-pack",
+  "displayName": "Java Pack for Java developer",
+  "description": "A collection of useful extensions for Java Developer.",
+  "version": "0.0.11",
+  "engines": {
+    "vscode": "*"
+  },
+  "publisher": "caonhat91",
+  "author": {
+    "name": "Nhat Nguyen Cao"
+  },
+  "license": "MIT",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#1e415e",
+    "theme": "dark"
+  },
+  "repository": {
+    "url": "https://github.com/caonhat91/java-dev-pack.git"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "vscjava.vscode-java-pack",
+    "vmware.vscode-boot-dev-pack",
+    "rangav.vscode-thunder-client",
+    "yzhang.markdown-all-in-one",
+    "k--kato.intellij-idea-keybindings",
+    "vscode-icons-team.vscode-icons",
+    "mermaidchart.vscode-mermaid-chart"
+  ],
+  "scripts": {
+    "package": "npx vsce package",
+    "publish": "npx vsce publish"
+  },
+  "devDependencies": {
+    "vsce": "^2.15.0"
+  }
+}
