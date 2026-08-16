@@ -5,9 +5,10 @@ Extension Pack for Java Developer is a collection of popular extensions that can
 ## Extensions Included
 By installing Extension Pack for Java Developer, the following extensions are installed:
 
-+ 📦 Python
-+ 📦 Python Test Explorer for Visual Studio Code
-+ 📦 autoDocstring - Python Docstring Generator
-+ 📦 Black Formatter
-+ 📦 Error Lens
-+ 📦 Ruff
++ 📦 Extension Pack for Java
++ 📦 Spring Boot Extension Pack
++ 📦 Thunder Client
++ 📦 Markdown All in One
++ 📦 IntelliJ IDEA Keybindings
++ 📦 vscode-icons
++ 📦 Mermaid
