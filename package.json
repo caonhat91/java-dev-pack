@@ -2,7 +2,7 @@
   "name": "nick-java-dev-pack",
   "displayName": "Java Pack for Java developer",
   "description": "A collection of useful extensions for Java Developer.",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "engines": {
     "vscode": "*"
   },
